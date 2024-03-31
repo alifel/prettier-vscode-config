@@ -1,0 +1,11 @@
+{
+  "name": "prettier-vscode-config",
+  "version": "1.0.0",
+  "description": "在项目中添加vscode的配置文件，并在配置文件中配置pretiier作为文件保存时的自动格式化工具。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
